@@ -1,6 +1,6 @@
 # React bulk cli
 
-Cli to generate react components bulk.
+Cli to generate react components bulk. [npm](https://www.npmjs.com/package/react-bulk-cli)
 
 If you want to create React Component bulk, this cli is best solution for you!
 

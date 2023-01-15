@@ -1,7 +1,9 @@
 {
   "name": "react-bulk",
   "version": "1.0.0",
-  "description": "",
+  "description": "Cli to generate react components bulk.",
+  "homepage": "https://github.com/livemehere/react-bulk-cli",
+  "repository": "https://github.com/livemehere/react-bulk-cli",
   "main": "src/index.js",
   "bin": {
     "rcg": "src/index.js"
