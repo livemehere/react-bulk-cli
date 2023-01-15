@@ -14,8 +14,8 @@ npm i react-bulk-cli # install local
 ## Usage
 
 ```bash
-rcg -f Home About Profile # or
-npx rcg -f Home About Profile
+rbc -f Home About Profile # or
+npx rbc -f Home About Profile
 
 # generated dir created
 # generated/About.jsx is generated

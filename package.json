@@ -6,7 +6,7 @@
   "repository": "https://github.com/livemehere/react-bulk-cli",
   "main": "src/index.js",
   "bin": {
-    "rcg": "src/index.js"
+    "rbc": "src/index.js"
   },
   "exports": {
     ".": "src/index.js"
